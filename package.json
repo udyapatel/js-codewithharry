@@ -1,0 +1,9 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "emmet": "^2.3.4",
+    "javascript": "^1.0.0"
+  }
+}
